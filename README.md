@@ -20,6 +20,8 @@ $ npm run serve  //启动项目
 
 7.歌曲播放（底部播放、歌曲详情、歌词滚动、播放进度调节、音量调节、播放模式切换、上一首、下一首、暂停/开始播放、播放列表）
 
-8.登录注册
+8.登录注册  
 
-![image]()
+### 部分功能图片展示  
+
+![image](https://github.com/yujinxings/music/blob/master/images/1.png)![image](https://github.com/yujinxings/music/blob/master/images/2.png)![image](https://github.com/yujinxings/music/blob/master/images/3.png)![image](https://github.com/yujinxings/music/blob/master/images/4.png)![image](https://github.com/yujinxings/music/blob/master/images/5.png)![image](https://github.com/yujinxings/music/blob/master/images/6.png)![image](https://github.com/yujinxings/music/blob/master/images/7.png)![image](https://github.com/yujinxings/music/blob/master/images/8.png)![image](https://github.com/yujinxings/music/blob/master/images/9.png)![image](https://github.com/yujinxings/music/blob/master/images/10.png)![image](https://github.com/yujinxings/music/blob/master/images/11.png)![image](https://github.com/yujinxings/music/blob/master/images/12.png)![image](https://github.com/yujinxings/music/blob/master/images/13.png)![image](https://github.com/yujinxings/music/blob/master/images/14.png)![image](https://github.com/yujinxings/music/blob/master/images/15.png)
