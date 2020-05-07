@@ -1,24 +1,25 @@
-# music
+### 执行命令
 
-## Project setup
-```
-yarn install
-```
+$ npm install  //环境安装
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+$ npm run serve  //启动项目
 
-### Compiles and minifies for production
-```
-yarn build
-```
+### 功能介绍
 
-### Lints and fixes files
-```
-yarn lint
-```
+1.每日推荐（推荐歌曲的显示）
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+2.歌单（推荐歌单的显示、歌单歌曲、歌单详情、歌单更多详情）
+
+3.歌手（歌手按拼音首字母排序、歌手详情、歌手专辑、歌手专辑歌曲）
+
+4.我的（用户信息、用户收藏的歌曲）
+
+5.搜索（歌曲搜索、当前搜索的所有播放资源）
+
+6.歌曲详情（设置下一首播放、登录可收藏歌曲、查看歌手）
+
+7.歌曲播放（底部播放、歌曲详情、歌词滚动、播放进度调节、音量调节、播放模式切换、上一首、下一首、暂停/开始播放、播放列表）
+
+8.登录注册
+
+![image]()
